@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - pandas
   - python-decouple
+  - pylance
   - fastparquet
   - huggingface_hub
   - jupyter
