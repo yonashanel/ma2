@@ -1,5 +1,6 @@
 #key
 .env.example
+.env.kb
 watson.txt
 #data
 .pre-commit-config.yaml
