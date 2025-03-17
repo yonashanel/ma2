@@ -1,5 +1,6 @@
 #key
 .env.example
+watson.txt
 #data
 .pre-commit-config.yaml
 material/data/*
@@ -179,3 +180,6 @@ cython_debug/
 .pypirc
 assignments/cnn_solution.ipynb
 assignments/nn_solution.ipynb
+data/watson.txt
+data/watson.txt
+.env.example
