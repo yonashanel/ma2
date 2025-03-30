@@ -1,11 +1,11 @@
 **AI & Machine Learning (KAN-CINTO4003U) - Copenhagen Business School | Spring 2025**
 
 ***
-
+	#S151265#
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| ##Krystian Bialy## | ##S151265## |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
